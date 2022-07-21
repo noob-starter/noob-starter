@@ -6,10 +6,10 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-    <img width="200" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif">
+    <img width="200" src="https://github.com/noob-starter/Images/blob/main/happy-face.gif">
 </p>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1> 
+<h1> Hello Fellow < Developers/ >! <img src = "https://github.com/noob-starter/Images/blob/main/wave.gif" width = 30px> </h1> 
   
 <p align='center'>
 </p>
