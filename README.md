@@ -48,12 +48,12 @@ You can click the Preview link to take a look at your changes.
 <a href= https://github.com/noob-starter?tab=repositories&q=&type=&language=html&sort= > <img width ='60px' src ='https://github.com/noob-starter/Images/blob/main/html.svg'> </a>&nbsp;&nbsp;
 <a href= https://github.com/noob-starter?tab=repositories&q=&type=&language=android&sort= > <img width ='60px' src ='https://github.com/noob-starter/Images/blob/main/android.svg'> </a>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = ''> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = ''> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = ''> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = ''> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/noob-starter'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<h2> Connect with me <img src='https://github.com/noob-starter/Images/blob/main/handshake.gif' width="100px"> </h2>
+<a href = ''> <img width = '32px' align= 'center' src="https://github.com/noob-starter/Images/blob/main/linked-in-alt.svg"/></a> 
+<a href = ''> <img width = '32px' align= 'center' src="https://github.com/noob-starter/Images/blob/main/twitter.svg"/></a> 
+<a href = ''> <img width = '32px' align= 'center' src="https://github.com/noob-starter/Images/blob/main/medium.svg"/></a> 
+<a href = ''> <img width = '32px' align= 'center' src="https://github.com/noob-starter/Images/blob/main/portfolio.png"/></a> 
+<a href = 'https://www.github.com/noob-starter'> <img width = '32px' align= 'center' src="https://github.com/noob-starter/Images/blob/main/github.svg"/></a>
   
 <br>
 <br>
